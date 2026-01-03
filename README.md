@@ -9,7 +9,12 @@ Compétences démontrées:
 Création d'un site web reponsive pour présenter des recettes de cuisine.
 * Utilisation de HTML pour structurer le contenu.
 * Utilisation de CSS pour styler le site web.
-* Utilisation de JavaScript pour ajouter des fonctionnalités interatives.
-A propos: 
+* Ajout de JavaScript(en cours) pour ajouter des fonctionnalités interatives.
+## État du projet 
+-Page d'accueil : **En construiction** 
+-Recettes : Présentées (HTML + CSS)
+-Fonctionnalités interactives : JavaScript en cours d'ajout
+
+## À propos: 
 Ce projet est en cours de développement et sera mis à jour régulièrement.
  
